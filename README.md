@@ -5,16 +5,16 @@ iOS Swift Basic Syntax - using Control and Views
 
 ## Screen Shots
 
-![Screen shot](public/images/screen1.png)
+![Screen shot](screen1.png)
 
 
-![Screen shot](public/images/screen2.png)
+![Screen shot](screen2.png)
 
 
-![Screen shot](public/images/screen3.png)
+![Screen shot](screen3.png)
 
 
-![Screen shot](public/images/screen4.png)
+![Screen shot](screen4.png)
 
 
 ## Technologies used
